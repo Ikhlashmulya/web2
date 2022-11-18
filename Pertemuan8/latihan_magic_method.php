@@ -4,7 +4,6 @@ class Produk
 {
 
     public $data = array();
-    public int $inc = 2;
     public string $name = "Ikhlash Mulyanurahman";
     // public string $name = "Ikhlash Mulyanurahman";
 
